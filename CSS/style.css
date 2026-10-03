@@ -1,0 +1,53 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.nav{
+    display: flex;
+    justify-content:space-between;
+    margin: 0px;
+    padding: 20px;
+    background-color: black;
+    border-top: 0.50px solid rgb(148, 145, 142);
+    border-bottom: 0.50px solid rgb(148, 145, 142);
+
+
+    
+}
+
+h2{
+    color: #f7f1f1;
+    margin: 0px;
+    padding: 10px;
+}
+
+.hd{
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    gap: 60px;
+
+}
+
+.hd a{
+    text-decoration: none;
+    color: rgb(148, 145, 142);
+    margin: 0px;
+    padding: 10px;
+
+}
+
+.hd .hbutton{
+    background-color: rgb(226, 181, 59);
+    border-radius: 5px;
+    margin: 0px;
+    padding: 10px 17px;
+}
+
+.head{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
